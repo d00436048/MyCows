@@ -5,3 +5,5 @@ MyCows is a multiplayer road trip game where you collect cows and burgers. You j
 - Xcode
 - SwiftUI
 - firebase
+![IMG_340C9011D7C2-1](https://github.com/user-attachments/assets/8e53deb3-09df-429a-a23d-ed58196a7ebe)
+
